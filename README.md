@@ -25,5 +25,6 @@ The project has been heavily inspired by some publicly available examples and te
 
 Technical references: 
 - Deep Learning, 2016, Ian Goodfellow et al, https://www.deeplearningbook.org/
+- Understanding Deep Learning 2023, Simon J.D. Prince, https://udlbook.github.io/udlbook/
 - Probabilistic Machine Learning 2022, Kevin P. Murphy, https://probml.github.io/pml-book/book1.html
 - Probabilistic Machine Learning 2023 (advanced), Kevin P. Murphy, https://probml.github.io/pml-book/book2.html

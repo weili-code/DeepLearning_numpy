@@ -19,11 +19,11 @@ Note: the code and examples in the repository are for pedagogical purpose and th
 Credits:
 The project has been heavily inspired by some publicly available examples and templates from the following sources:
 
-CMU 11-785 (Bhiksha Raj & Rita Singh) http://deeplearning.cs.cmu.edu/F23/index.html
-CS229 (Andrew Ng et al) https://cs229.stanford.edu/
-STAT 453 (Sebastian Raschka) https://sebastianraschka.com/teaching/
+- CMU 11-785 (Bhiksha Raj & Rita Singh) http://deeplearning.cs.cmu.edu/F23/index.html
+- CS229 (Andrew Ng et al) https://cs229.stanford.edu/
+- STAT 453 (Sebastian Raschka) https://sebastianraschka.com/teaching/
 
 Technical references: 
-Deep Learning, 2016, Ian Goodfellow et al, https://www.deeplearningbook.org/
-Probabilistic Machine Learning 2022, Kevin P. Murphy, https://probml.github.io/pml-book/book1.html
-Probabilistic Machine Learning 2023 (advanced), Kevin P. Murphy, https://probml.github.io/pml-book/book2.html
+- Deep Learning, 2016, Ian Goodfellow et al, https://www.deeplearningbook.org/
+- Probabilistic Machine Learning 2022, Kevin P. Murphy, https://probml.github.io/pml-book/book1.html
+- Probabilistic Machine Learning 2023 (advanced), Kevin P. Murphy, https://probml.github.io/pml-book/book2.html

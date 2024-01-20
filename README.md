@@ -6,7 +6,7 @@ This repository contains the following deep-learning modules implemented from sc
 - 2D Convolutional Neural Network
 - Recurrent Neural Network
 
-Folder <project> :
+Folder "project" :
 - evaluation: contain modules for assessing models
 - examples: contain actual applications to demonstrate the models
 - models: contain the main scripts for the models
@@ -14,7 +14,9 @@ Folder <project> :
 - optim: contain algorithms for optimization
 - utils: contain utility functions for obtaining and processing data
 
-Note: the code and examples in the repository are for pedagogical purposes and thus have not been enhanced for efficiency and performance, and may take significantly longer time than the counterpart of Pytorch modules. You can find .HTML files in the folder <examples> for some concrete demonstration. A collection of illustrations of DL methods using PyTorch can be also found here https://github.com/weili-code/DeepLearning_pytorch. 
+Note: the code and examples in the repository are for pedagogical purposes and thus have not been enhanced for efficiency and performance, and may take significantly longer time than the counterpart of Pytorch modules. You can find some HTML files in the folder "examples" for concrete demonstration. 
+
+A collection of illustrations of DL methods using PyTorch can be also found here https://github.com/weili-code/DeepLearning_pytorch. 
 
 Credits:
 The project has been heavily inspired by some publicly available examples and templates from the following sources:

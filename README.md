@@ -14,6 +14,8 @@ Folder "project" :
 - optim: contain algorithms for optimization
 - utils: contain utility functions for obtaining and processing data
 
+Check out the demonstration examples here: https://github.com/weili-code/DeepLearning_numpy/tree/main/project/examples
+
 Note: the code and examples in the repository are for pedagogical purposes and thus have not been enhanced for efficiency and performance, and may take significantly longer time than the counterpart of Pytorch modules. You can find some HTML files in the folder "examples" for concrete demonstration. 
 
 A collection of illustrations of DL methods using PyTorch can be found in another repository here https://github.com/weili-code/DeepLearning_pytorch. 

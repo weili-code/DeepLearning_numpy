@@ -27,7 +27,7 @@ The project has been heavily inspired by some publicly available examples and te
 - CS229 (Andrew Ng et al) https://cs229.stanford.edu/
 - STAT 453 (Sebastian Raschka) https://sebastianraschka.com/teaching/
 
-Technical references: 
+Textbook references: 
 - Deep Learning, 2016, Ian Goodfellow et al, https://www.deeplearningbook.org/
 - Understanding Deep Learning 2023, Simon J.D. Prince, https://udlbook.github.io/udlbook/
 - Probabilistic Machine Learning 2022, Kevin P. Murphy, https://probml.github.io/pml-book/book1.html

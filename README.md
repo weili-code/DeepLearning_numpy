@@ -1,5 +1,7 @@
 # Deep Learning (NumPy implementation)
 
+In progress...
+
 This repository contains the following deep-learning modules implemented from scratch with NumPy.
 - Multiple Layer Perceptions (deep feedforward neural network)
 - 1D Convolutional Neural Network

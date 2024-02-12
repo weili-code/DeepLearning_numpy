@@ -3,7 +3,7 @@
 In progress...
 
 This repository contains the following deep-learning modules implemented from scratch with NumPy.
-- Multiple Layer Perceptions (deep feedforward neural network)
+- Multiple Layer Perceptrons (deep feedforward neural network)
 - 1D Convolutional Neural Network
 - 2D Convolutional Neural Network
 - Recurrent Neural Network

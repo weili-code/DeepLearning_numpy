@@ -49,14 +49,17 @@ and numerical behavior. This project prioritizes clarity and transparency over c
 A PyTorch-based implementation of similar models is available here:
 https://github.com/weili-code/DeepLearning_pytorch. 
 
-Credits:
-The project has been heavily inspired by some publicly available examples and templates from the following sources:
+## Acknowledgments
 
-- CMU 11-785 (Bhiksha Raj & Rita Singh) http://deeplearning.cs.cmu.edu/F23/index.html
-- CS229 (Andrew Ng et al) https://cs229.stanford.edu/
-- STAT 453 (Sebastian Raschka) https://sebastianraschka.com/teaching/
+This project draws on concepts and methodologies commonly taught in leading 
+machine learning and deep learning courses such as:
 
-References: 
+- CMU 11-785 (Bhiksha Raj & Rita Singh)  
+- CS229 (Stanford, Andrew Ng et al.)  
+- STAT 453 (Sebastian Raschka)
+
+
+## References: 
 - Deep Learning, 2016, Ian Goodfellow et al, https://www.deeplearningbook.org/
 - Understanding Deep Learning 2023, Simon J.D. Prince, https://udlbook.github.io/udlbook/
 - Probabilistic Machine Learning 2022, Kevin P. Murphy, https://probml.github.io/pml-book/book1.html

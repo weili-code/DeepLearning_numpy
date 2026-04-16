@@ -3,26 +3,51 @@
 This project implements a modular deep learning framework from scratch using NumPy, 
 including neural network architectures, training pipelines, and evaluation tools.
 
+The goal is to expose the full modeling pipeline—forward/backward propagation, 
+optimization, and evaluation—without relying on automatic differentiation libraries.
 
-This repository contains the following deep-learning modules implemented from scratch with NumPy.
-- Multiple Layer Perceptrons (deep feedforward neural network)
-- 1D Convolutional Neural Network
-- 2D Convolutional Neural Network
-- Recurrent Neural Network
+## Motivation
+Modern frameworks such as PyTorch abstract away implementation details. 
+This project reconstructs these components explicitly to:
 
-Folder "project" :
-- evaluation: contain modules for assessing models
-- examples: contain actual applications to demonstrate the models
-- models: contain the main scripts for the models
-- nn/modules: contain modules ingredients for the models
-- optim: contain algorithms for optimization
-- utils: contain utility functions for obtaining and processing data
+- Understand gradient-based learning at a systems level
+- Enable full control over model behavior and debugging
+- Provide a foundation for extending and experimenting with new architectures
+
+## Tech Stack
+Python
+NumPy
+
+## Features
+- Neural network architectures:
+  - Multi-layer perceptrons (MLP)
+  - 1D and 2D convolutional neural networks (CNN)
+  - Recurrent neural networks (RNN)
+- Manual backpropagation implementation
+- Modular components:
+  - Layers (`nn/modules`)
+  - Optimizers (`optim`)
+  - Evaluation tools (`evaluation`)
+- End-to-end training pipeline
+
+
+Folder "project" structure:
+- evaluation/: contain modules for assessing models
+- examples/: contain actual applications to demonstrate the models
+- models/: contain the main scripts for the models
+- nn/modules/: contain modules ingredients for the models
+- optim/: contain algorithms for optimization
+- utils/: contain utility functions for obtaining and processing data
 
 Check out the demonstration examples here: https://github.com/weili-code/DeepLearning_numpy/tree/main/project/examples
 
-Note: the code and examples in the repository are for pedagogical purposes and thus have not been enhanced for efficiency and performance, and may take significantly longer time than the counterpart of Pytorch modules. You can find some HTML files in the folder "examples" for concrete demonstration. 
+Note: 
+The implementations are benchmarked against PyTorch models to verify correctness
+and numerical behavior. This project prioritizes clarity and transparency over computational efficiency. It is designed for experimentation, validation, and extension of deep learning models.
 
-A collection of illustrations of DL methods using PyTorch can be found in another repository here https://github.com/weili-code/DeepLearning_pytorch. 
+
+A PyTorch-based implementation of similar models is available here:
+https://github.com/weili-code/DeepLearning_pytorch. 
 
 Credits:
 The project has been heavily inspired by some publicly available examples and templates from the following sources:
@@ -31,7 +56,7 @@ The project has been heavily inspired by some publicly available examples and te
 - CS229 (Andrew Ng et al) https://cs229.stanford.edu/
 - STAT 453 (Sebastian Raschka) https://sebastianraschka.com/teaching/
 
-Textbook references: 
+References: 
 - Deep Learning, 2016, Ian Goodfellow et al, https://www.deeplearningbook.org/
 - Understanding Deep Learning 2023, Simon J.D. Prince, https://udlbook.github.io/udlbook/
 - Probabilistic Machine Learning 2022, Kevin P. Murphy, https://probml.github.io/pml-book/book1.html

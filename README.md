@@ -1,6 +1,8 @@
 # Deep Learning (NumPy implementation)
 
-In progress...
+This project implements a modular deep learning framework from scratch using NumPy, 
+including neural network architectures, training pipelines, and evaluation tools.
+
 
 This repository contains the following deep-learning modules implemented from scratch with NumPy.
 - Multiple Layer Perceptrons (deep feedforward neural network)
